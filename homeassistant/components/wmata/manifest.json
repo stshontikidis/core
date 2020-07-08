@@ -1,0 +1,8 @@
+{
+    "domain": "wmata",
+    "name": "Washington Metro Area Transit Authority",
+    "documentation": "https://www.home-assistant.io/integrations/wmata",
+    "dependencies": [],
+    "codeowners": ["@stshontikidis"],
+    "requirements": ["requests==2.24.0"]
+  }
